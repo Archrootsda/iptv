@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="YadahTV.zw@SD",Yadah TV (576p) [Not 24/7]
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_018/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="YadahTV.zw@SD",Yadah TV (576p) [Not 24/7]
+http://ghosttv.art:80/play/live.php?mac=00:1A:79:64:07:12&stream=228&extension=ts&play_token=rZ559zOlnw
