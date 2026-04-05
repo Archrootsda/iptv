@@ -33,7 +33,7 @@ Same thing, but split up into separate files:
     <tr><td>Education</td><td align="right">185</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/education.m3u</code></td></tr>
     <tr><td>Entertainment</td><td align="right">610</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/entertainment.m3u</code></td></tr>
     <tr><td>Family</td><td align="right">51</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/family.m3u</code></td></tr>
-    <tr><td>General</td><td align="right">2362</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/general.m3u</code></td></tr>
+    <tr><td>General</td><td align="right">2363</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/general.m3u</code></td></tr>
     <tr><td>Interactive</td><td align="right">1</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/interactive.m3u</code></td></tr>
     <tr><td>Kids</td><td align="right">222</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/kids.m3u</code></td></tr>
     <tr><td>Legislative</td><td align="right">177</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/legislative.m3u</code></td></tr>
@@ -88,7 +88,7 @@ Same thing, but split up into separate files:
     <tr><td align="left">Algerian Sign Language</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/asp.m3u</code></td></tr>
     <tr><td align="left">Alur</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/alz.m3u</code></td></tr>
     <tr><td align="left">Amharic</td><td align="right">5</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/amh.m3u</code></td></tr>
-    <tr><td align="left">Arabic</td><td align="right">344</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ara.m3u</code></td></tr>
+    <tr><td align="left">Arabic</td><td align="right">345</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ara.m3u</code></td></tr>
     <tr><td align="left">Armenian</td><td align="right">6</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/hye.m3u</code></td></tr>
     <tr><td align="left">Assamese</td><td align="right">13</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/asm.m3u</code></td></tr>
     <tr><td align="left">Assyrian Neo-Aramaic</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/aii.m3u</code></td></tr>
