@@ -231,7 +231,7 @@ https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
 https://pb-mfmqu5e0fq1lb.akamaized.net/Duck_Dynasty.m3u8
 #EXTINF:-1 tvg-id="ducktv.sk@SD",ducktv (720p)
 https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="",Ebony TV by Lionsgate (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="EbonyTVbyLionsgate.us",Ebony TV by Lionsgate (1080p) [Geo-blocked]
 https://pb-6csswagmy4nat.akamaized.net/Ebony_TV_by_Lionsgate.m3u8
 #EXTINF:-1 tvg-id="ElectricNow.us@SD",ElectricNOW (1080p) [Geo-blocked]
 https://pb-aexv6wqzkg929.akamaized.net/ElectricNOW.m3u8
@@ -403,7 +403,7 @@ https://dnmfq3sh1jipj.cloudfront.net/DisneyLocalish.m3u8
 https://d1kt53vrikzr5o.cloudfront.net/v1/lol_lolnetwork_5/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca@4K",Love Nature 4K (2160p) [Geo-blocked]
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
-#EXTINF:-1 tvg-id="",Love Pets (1080p)
+#EXTINF:-1 tvg-id="LovePets.ca@US",Love Pets (1080p)
 https://d31r8y66tn175.cloudfront.net/Love_Pets.m3u8
 #EXTINF:-1 tvg-id="LuckyDog.us@SD",Lucky Dog (720p)
 https://d3j95sejv6mybj.cloudfront.net/Lucky_Dog.m3u8
@@ -497,7 +497,7 @@ https://pb-vt93jy06rfty1.akamaized.net/SONOS45.m3u8
 https://d14kyo3ex6k293.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="OutdoorAmerica.us@SD",Outdoor America (1080p)
 https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="",OuterSphere (1080p)
+#EXTINF:-1 tvg-id="OuterSphere.us@SD",OuterSphere (1080p)
 https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
 #EXTINF:-1 tvg-id="",OUTflix Movies (1080p)
 https://dg37ei3o66x3s.cloudfront.net/OutTV_US.m3u8
