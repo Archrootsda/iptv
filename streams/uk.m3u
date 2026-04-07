@@ -27,8 +27,6 @@ https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc113/bbcfirs
 https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
 #EXTINF:-1 tvg-id="BBCLifestyle.uk@Singapore",BBC Lifestyle (1080p)
 https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc114/bbclifestylehdraw/bbclifestylehdraw.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk@AsiaPacific",BBC News Asia Pacific (1080p)
-https://tv.ddns.vn/tv/bbcworldnews/index.m3u8
 #EXTINF:-1 tvg-id="BBCNewsPashto.uk@HD",BBC News Pashto (720p)
 https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BBCNewsPashto.uk@HD",BBC News Pashto (720p)
@@ -287,3 +285,15 @@ https://jmp2.uk/stvp-GB340000289
 https://4bc5d2b3.wurl.com/v1/asia_tv_limited_zeeworld_1/ohlscdn_us/V00000001/7200/HLS/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeTVUK.uk@HD",Zee TV UK HD (720p)
 http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/ZEE/index.m3u8
+#EXTINF:-1 tvg-id="ITV2.uk@SD",ITV2 (1080p)
+http://80.194.62.172:50002/stream/channelid/404728797
+#EXTINF:-1 tvg-id="ITV1.uk@London",ITV1 (1080p)
+http://80.194.62.172:50002/stream/channelid/95929545
+#EXTINF:-1 tvg-id="Channel4.uk@UK",Channel 4 (1080p)
+http://80.194.62.172:50002/stream/channelid/1940621521
+#EXTINF:-1 tvg-id="E4.uk@SD",E4 (1080p)
+http://80.194.62.172:50002/stream/channelid/1096333958
+#EXTINF:-1 tvg-id="Film4.uk@SD",Film4 (1080p)
+http://80.194.62.172:50002/stream/channelid/1764271106
+#EXTINF:-1 tvg-id="SkyMix.uk@SD",Sky Mix (1080p)
+http://80.194.62.172:50002/stream/channelid/1848745953

@@ -6,8 +6,6 @@ https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8
 #EXTINF:-1 tvg-id="BrunoMasiTV.py@SD",Bruno Masi TV (720p)
 https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
 #EXTINF:-1 tvg-id="C9N.py@SD",C9N
-https://alba-py-c9n-c9n.stream.mediatiquestream.com/playlist.m3u8
-#EXTINF:-1 tvg-id="C9N.py@SD",C9N
 https://d1y0t05eznkmpn.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="Canal5TVMax.py@SD",Canal 5 TV Max (720p)
 https://video.wilohosting.com:19360/tvmax/tvmax.m3u8
@@ -37,8 +35,6 @@ https://alba-py-snt-snt.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 https://live.enhdtv.com:8081/8060/index.m3u8
 #EXTINF:-1 tvg-id="TelePortalCanal531.py@SD",TelePortal Canal 53.1 (1080p) [Geo-blocked]
 https://live20.bozztv.com/giatv/giatv-miseñalhd/miseñalhd/playlist.m3u8
-#EXTINF:-1 tvg-id="Trece.py@SD",Trece Paraguay (1080p) [Not 24/7]
-https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
 #EXTINF:-1 tvg-id="UnionTV.py@SD",UnionTV
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 #EXTINF:-1 tvg-id="VenusMedia.py@SD",Venus Media (720p)
@@ -87,3 +83,25 @@ https://copacogen.desdeparaguay.net/gentv/gentv_py_alta/playlist.m3u8?admin=naci
 #EXTINF:-1 tvg-id="E40.py@SD",E40 (1080p)
 #EXTVLCOPT:http-referrer=https://www.estacion40.com.py/
 https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="DelReyTV.py@SD",Del Rey TV (1080p)
+#EXTVLCOPT:http-referrer=https://tvonline.com.py/
+https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8
+#EXTINF:-1 tvg-id="Canal8VisionTV.py@SD",Canal 8 Vision TV (1080p)
+#EXTVLCOPT:http-referrer=https://www.visioncomunicaciones.com.py/
+https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8
+#EXTINF:-1 tvg-id="ProductivaTV.py@SD",Productiva TV
+https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-id="Nanduti.py@SD",Nanduti (720p)
+https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8
+#EXTINF:-1 tvg-id="TigoSports.py@SD",Tigo Sports (720p)
+https://live.enhdtv.com:8081/8160/index.m3u8
+#EXTINF:-1 tvg-id="TVAire.py@SD",TV Aire
+https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
+#EXTINF:-1 tvg-id="Trece.py@SD",Trece (1080p)
+#EXTVLCOPT:http-referrer=https://trece.com.py/
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
+#EXTINF:-1 tvg-id="Nanduti.py@SD",Nanduti (720p)
+#EXTVLCOPT:http-referrer=https://nanduti.com.py/nanduti-tv
+https://copacogen.desdeparaguay.net/nandutitv/nandutitv_baja/index.m3u8
+#EXTINF:-1 tvg-id="A24Paraguay.py@SD",A24 Paraguay
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/6.m3u8
