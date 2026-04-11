@@ -9,7 +9,7 @@ import * as sdk from '@iptv-org/sdk'
 import { truncate } from '../../utils'
 import { Command } from 'commander'
 import readline from 'readline'
-import path from 'path'
+import path from 'node:path'
 
 type ChoiceValue = { type: string; value?: sdk.Models.Feed | sdk.Models.Channel }
 type Choice = { name: string; short?: string; value: ChoiceValue; default?: boolean }
