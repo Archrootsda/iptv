@@ -105,3 +105,19 @@ http://78.130.250.2:8023/play/a065/index.m3u8
 http://78.130.250.2:8023/play/a064/index.m3u8
 #EXTINF:-1 tvg-id="PolsatSeriale.pl@SD",Polsat Seriale (1080p)
 http://78.130.250.2:8023/play/a06h/index.m3u8
+#EXTINF:-1 tvg-id="TVP1.pl@SD",TVP1 (1080p)
+https://estreams.tv.nej.cz/dash/CH_TVP1_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-id="BTBInfo.pl@SD",BTB Info (1080p)
+https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
+#EXTINF:-1 tvg-id="TelewizjaRelax.pl@SD",Telewizja Relax (1080p)
+https://srv1.streamingo.pl/memfs/be50f17e-6579-4bdf-86b1-31207aec85b8.m3u8
+#EXTINF:-1 tvg-id="BTBInternational.pl@SD",BTB International (1080p)
+https://emisja.btb.j00r.us/iptv/session/2/hls.m3u8
+#EXTINF:-1 tvg-id="BTB.pl@SD",BTB (1080p)
+https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8
+#EXTINF:-1 tvg-id="TVRegionalnaLubin.pl@SD",TV Regionalna Lubin (1080p)
+https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd.m3u8
+#EXTINF:-1 tvg-id="PolsatNews.pl@SD",Polsat News (1080p) [Geo-blocked]
+https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8
+#EXTINF:-1 tvg-id="SzlagierTV.pl@SD",Szlagier TV (1080p)
+https://vefgpbwcjjjbxfng.naszatv.pl/index.fmp4.m3u8
