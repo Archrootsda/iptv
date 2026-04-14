@@ -198,3 +198,7 @@ https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
 https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
 #EXTINF:-1 tvg-id="RealitateaPlus.ro@SD",Realitatea Plus (720p)
 https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
+#EXTINF:-1 tvg-id="BollywoodClassic.ro@SD",Bollywood Classic (1080p)
+http://103.213.31.109:90/BollywoodClassic/playlist.m3u8
+#EXTINF:-1 tvg-id="BollywoodHD.ro@SD",Bollywood HD (1080p)
+http://103.213.31.109:90/BollywoodHD/playlist.m3u8
